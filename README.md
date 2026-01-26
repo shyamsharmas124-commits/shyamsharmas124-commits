@@ -22,16 +22,6 @@
 - 🔹 **Squad-124-Portfolio** – Basically a short intro website about our squad at kalvium.  
 - 🔹 **fitness-tracker** – A project made by me on fitness. Track your calories, you protein intake, and stay fit 💪  
 
----
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamsharma124-commits&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamsharma124-commits&theme=tokyonight" />
-</p>
 
 ---
 
