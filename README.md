@@ -1,4 +1,4 @@
-![download](https://github.com/user-attachments/assets/b2d6ec1c-8b10-425a-9922-b89b9d79a2e6)<h1 align="center">Hi 👋, I'm Shyam Sharma </h1>
+<h1 align="center">Hi 👋, I'm Shyam Sharma </h1>
 <h3 align="center">A passionate learner & developer</h3>
 
 ---
