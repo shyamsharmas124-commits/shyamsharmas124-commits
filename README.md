@@ -28,41 +28,25 @@
 
 ### 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/shyamsharmas124-commits/newsletter-saas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyamsharmas124-commits&repo=newsletter-saas&theme=tokyonight&hide_border=true" alt="Newsletter SaaS" />
-  </a>
-  <a href="https://github.com/shyamsharmas124-commits/studenthub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyamsharmas124-commits&repo=studenthub&theme=tokyonight&hide_border=true" alt="StudentHub" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/shyamsharmas124-commits/phonedetector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyamsharmas124-commits&repo=phonedetector&theme=tokyonight&hide_border=true" alt="Phone Detector" />
-  </a>
-  <a href="https://github.com/shyamsharmas124-commits/reddit-post-growth-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyamsharmas124-commits&repo=reddit-post-growth-tracker&theme=tokyonight&hide_border=true" alt="Reddit Post Growth Tracker" />
-  </a>
-</p>
-
-- 🔹 **Newsletter SaaS – Backend API** – A multi-tenant newsletter platform backend (Node.js, Express, MongoDB) with JWT refresh-token auth, role-based access control, and HMAC-signed mock payment verification.
-- 🔹 **StudentHub** – A student-run learning platform where students curate and share free resources, teach each other, and track progress — built with React, Node.js, Express, Prisma, and MongoDB.
-- 🔹 **Phone Detector** – Real-time mobile phone detection using YOLOv8 and a webcam feed, with a Flask backend and browser-based alerts/audio.
-- 🔹 **Reddit Post Growth Tracker** – A Python tool that snapshots subreddit post scores over time, analyses growth patterns, and renders a trajectory chart.
-- 🔹 **Squad-124-Portfolio** – A short intro website about our squad at Kalvium.
-- 🔹 **fitness-tracker** – Track your calories, protein intake, and stay fit 💪
+| Project | Description | Tech |
+|---|---|---|
+| 🔗 [**Newsletter SaaS – Backend API**](https://github.com/shyamsharmas124-commits/newsletter-saas) | Multi-tenant newsletter platform backend with JWT refresh-token auth, RBAC, and HMAC-signed mock payment verification. | `Node.js` `Express` `MongoDB` |
+| 🔗 [**StudentHub**](https://github.com/shyamsharmas124-commits/studenthub) | A student-run learning platform where students curate resources, teach each other, and track progress. | `React` `Node.js` `Prisma` `MongoDB` |
+| 🔗 [**Phone Detector**](https://github.com/shyamsharmas124-commits/phonedetector) | Real-time mobile phone detection using YOLOv8 and a webcam feed, with browser-based alerts. | `Python` `Flask` `YOLOv8` `OpenCV` |
+| 🔗 [**Reddit Post Growth Tracker**](https://github.com/shyamsharmas124-commits/reddit-post-growth-tracker) | Snapshots subreddit post scores over time, analyses growth patterns, and renders a trajectory chart. | `Python` |
+| 🔗 [**Squad-124-Portfolio**](https://github.com/shyamsharmas124-commits/Squad-124-Portfolio) | A short intro website about our squad at Kalvium. | `HTML` `CSS` `JS` |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamsharmas124-commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamsharmas124-commits&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=shyamsharmas124-commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=shyamsharmas124-commits&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsharmas124-commits&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shyamsharmas124-commits&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
