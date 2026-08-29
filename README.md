@@ -69,7 +69,7 @@
   <a href="https://portfolio-liart-five-curaevxykv.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2E97F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://drive.google.com/file/d/1siDTG83isKw1sdLlAh1O5HZ9zxIEAd90/view?usp=sharing" target="_blank">
+  <a href="https://docs.google.com/document/d/1auh2E7bsjjuPwwXgMxFGCQrlcbGN9D1H/edit" target="_blank">
     <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
   <a href="https://www.linkedin.com/in/shyam-sharma-a908a6379/" target="_blank">
