@@ -315,7 +315,7 @@
         <rect width="121" height="60" rx="8" fill="#16100c" stroke="#2a1d15" stroke-width="1" />
         <rect width="121" height="2.5" rx="1" fill="#38bdf8" />
         <text x="12" y="22" fill="#8f7868" font-size="8.5" letter-spacing="0.5px" class="mono bold">YEARLY COMMITS</text>
-        <text x="12" y="46" fill="#ffe6c2" font-size="16" class="mono extrabold">343</text>
+        <text x="12" y="46" fill="#ffe6c2" font-size="16" class="mono extrabold">344</text>
       </g>
 
       <!-- KPI 4: OSS Merged PRs -->
