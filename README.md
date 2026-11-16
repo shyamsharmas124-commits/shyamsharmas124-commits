@@ -13,7 +13,7 @@
 <a href="mailto:shyam.sharma.s.124@kalvium.community" target="_blank">
   <img src="https://img.shields.io/badge/Email-shyam.sharma.s.124-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://drive.google.com/file/d/1j-3yuiPKqF5klB2oKelb1XbWSqmtmREa/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1lQMZUHpjgsKGwyppHrjVxgeuDBPFIMPj/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=shyamsharmas124-commits&label=Profile%20Views&color=ff6a1f&style=for-the-badge" alt="Profile Views" />
