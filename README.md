@@ -87,6 +87,7 @@ Contributions to production open-source ecosystems including electromagnetic sim
 <!-- OSS_START -->
 | Repository | Pull Request | Scope / Impact | Status |
 |:---|:---|:---|:---:|
+| [`unit8co/darts`](https://github.com/unit8co/darts) | [#3378](https://github.com/unit8co/darts/pull/3378) | Fix qr (quantile risk) zero denominator handling with zero_division | `MERGED` |
 | [`gprMax/gprMax`](https://github.com/gprMax/gprMax) | [#963](https://github.com/gprMax/gprMax/pull/963) | Validate output path safety, transactional writing and origin checks in geometry export | `MERGED` |
 | [`gprMax/gprMax`](https://github.com/gprMax/gprMax) | [#958](https://github.com/gprMax/gprMax/pull/958) | Validate output path safety, atomic writing and critical-angle guards in AntennaPatterns | `MERGED` |
 | [`gprMax/gprMax`](https://github.com/gprMax/gprMax) | [#946](https://github.com/gprMax/gprMax/pull/946) | Validate output path safety in head extraction and reject non-finite timewindows | `MERGED` |

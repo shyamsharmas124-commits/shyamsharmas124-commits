@@ -278,7 +278,7 @@
 <rect x="714.0" y="121.5" width="10.5" height="10.5" rx="2.5" fill="#1c1410" />
 <rect x="714.0" y="135.0" width="10.5" height="10.5" rx="2.5" fill="#ff6a1f" />
 <rect x="727.5" y="54.0" width="10.5" height="10.5" rx="2.5" fill="#9e4214" />
-<rect x="727.5" y="67.5" width="10.5" height="10.5" rx="2.5" fill="#1c1410" />
+<rect x="727.5" y="67.5" width="10.5" height="10.5" rx="2.5" fill="#9e4214" />
 
     </g>
 
@@ -300,7 +300,7 @@
         <rect width="121" height="60" rx="8" fill="#16100c" stroke="#2a1d15" stroke-width="1" />
         <rect width="121" height="2.5" rx="1" fill="#ff6a1f" />
         <text x="12" y="22" fill="#8f7868" font-size="8.5" letter-spacing="0.5px" class="mono bold">CURRENT STREAK</text>
-        <text x="12" y="46" fill="#ffe6c2" font-size="16" class="mono extrabold">2 <tspan font-size="10" fill="#ff6a1f">DAYS</tspan></text>
+        <text x="12" y="46" fill="#ffe6c2" font-size="16" class="mono extrabold">3 <tspan font-size="10" fill="#ff6a1f">DAYS</tspan></text>
       </g>
 
       <!-- KPI 2: Longest Streak -->
@@ -316,7 +316,7 @@
         <rect width="121" height="60" rx="8" fill="#16100c" stroke="#2a1d15" stroke-width="1" />
         <rect width="121" height="2.5" rx="1" fill="#38bdf8" />
         <text x="12" y="22" fill="#8f7868" font-size="8.5" letter-spacing="0.5px" class="mono bold">YEARLY COMMITS</text>
-        <text x="12" y="46" fill="#ffe6c2" font-size="16" class="mono extrabold">344</text>
+        <text x="12" y="46" fill="#ffe6c2" font-size="16" class="mono extrabold">348</text>
       </g>
 
       <!-- KPI 4: OSS Merged PRs -->
@@ -324,7 +324,7 @@
         <rect width="121" height="60" rx="8" fill="#16100c" stroke="#2a1d15" stroke-width="1" />
         <rect width="121" height="2.5" rx="1" fill="#10b981" />
         <text x="12" y="22" fill="#8f7868" font-size="8.5" letter-spacing="0.5px" class="mono bold">OSS MERGED PRS</text>
-        <text x="12" y="46" fill="#ffe6c2" font-size="16" class="mono extrabold">18 <tspan font-size="10" fill="#10b981">PRS</tspan></text>
+        <text x="12" y="46" fill="#ffe6c2" font-size="16" class="mono extrabold">19 <tspan font-size="10" fill="#10b981">PRS</tspan></text>
       </g>
     </g>
   </g>
