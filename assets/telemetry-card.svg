@@ -93,7 +93,7 @@
   <!-- ================= RIGHT PANEL: ACTIVITY LOG · 26 WEEKS ================= -->
   <g id="right-panel">
     <text x="365" y="36" fill="#ffe6c2" font-size="12" letter-spacing="1px" class="mono bold">ACTIVITY LOG · 26 WEEKS</text>
-    <text x="876" y="36" text-anchor="end" fill="#8f7868" font-size="9.5" class="mono">2026-05-31 — 2026-11-23</text>
+    <text x="876" y="36" text-anchor="end" fill="#8f7868" font-size="9.5" class="mono">2026-05-31 — 2026-11-24</text>
 
     <!-- Weekday Markers -->
     <text x="372" y="78" fill="#786050" font-size="8.5" class="mono bold">M</text>
@@ -279,6 +279,7 @@
 <rect x="714.0" y="135.0" width="10.5" height="10.5" rx="2.5" fill="#1c1410" />
 <rect x="727.5" y="54.0" width="10.5" height="10.5" rx="2.5" fill="#1c1410" />
 <rect x="727.5" y="67.5" width="10.5" height="10.5" rx="2.5" fill="#9e4214" />
+<rect x="727.5" y="81.0" width="10.5" height="10.5" rx="2.5" fill="#1c1410" />
 
     </g>
 
